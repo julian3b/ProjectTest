@@ -63,7 +63,7 @@ export function ChatInterface({ onSendMessage }: ChatInterfaceProps) {
             <div className="flex items-center justify-center h-[400px]">
               <div className="text-center">
                 <h3 className="text-lg font-semibold text-foreground mb-2">
-                  Welcome to AI Chat - QQQQQAAAddddeeeeeeeeeeeeeee ddddddddd eeed 111111111111111
+                  Welcome to AI Chat - QQQQQAAAddddeeeeeeeeeeeeeee ddddddddd eeed 222222222
                 </h3>
                 <p className="text-muted-foreground">
                   Start a conversation by typing a message below
