@@ -18,7 +18,7 @@ function Router() {
 
 function App() {
   return (
-    <QueryClientProvider client={queryClient}>AAAAAAAAA
+    <QueryClientProvider client={queryClient}>AAAAAAAAAqqq
       <ThemeProvider>
         <TooltipProvider>
           <Toaster />
