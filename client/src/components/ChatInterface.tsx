@@ -71,6 +71,8 @@ export function ChatInterface({ onSendMessage }: ChatInterfaceProps) {
               </div>
             </div>
           )}
+
+          
           
           {messages.map((message) => (
             <ChatMessage key={message.id} message={message} />
